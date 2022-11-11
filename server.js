@@ -69,6 +69,18 @@ wsServer.on('connection', (socket) => {
 ///////////////////////////////////////////////
 
 // Implement the broadcast pattern
+function broadcast(data, socketToOmit) {
+  // Loop through all the clients
+  wsServer.clients.forEach((connectedClient) => {
+    // If the client is not the socketToOmit and has an open ready state, send the data
+    if (connectedClient !== socketToOmit && connectedClient.readyState === WebSocket.OPEN) {
+      connectedClient.send(
+        JSON.stringify(data)
+      );
+    }
+  });
+}
+
 function handleNewUser(socket) {
   // Until there are 4 players in the game....
   if (nextPlayerIndex < 4) {
