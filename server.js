@@ -40,13 +40,17 @@ const server = http.createServer((req, res) => {
 
 const option = {server: server};
 const wsServer = new WebSocket.Server(option);
+// Define the websocket server 'connection' handler
 wsServer.on('connection', (socket) => {
   console.log('A new client has joined the server');
+  // Define the socket 'message' handler
   socket.on('message', (data) => {
     const messageObject = JSON.parse(data);
     const type = messageObject.type;
     const payload = messageObject.payload;
     console.log(messageObject.type);
+      // 'NEW_USER' => handleNewUser(socket)
+      // 'PASS_POTATO' => passThePotatoTo(newPotatoHolderIndex)
     switch (type) {
       case CLIENT.MESSAGE.NEW_USER:
         handleNewUser(socket);
@@ -60,11 +64,6 @@ wsServer.on('connection', (socket) => {
     };
   });
 });
-
-// Define the websocket server 'connection' handler
-// Define the socket 'message' handler
-  // 'NEW_USER' => handleNewUser(socket)
-  // 'PASS_POTATO' => passThePotatoTo(newPotatoHolderIndex)
 
 
 ///////////////////////////////////////////////
