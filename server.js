@@ -46,15 +46,20 @@ wsServer.on('connection', (socket) => {
     const messageObject = JSON.parse(data);
     const type = messageObject.type;
     const payload = messageObject.payload;
-    console.log(messageObject);
+    console.log(messageObject.type);
     switch (type) {
       case CLIENT.MESSAGE.NEW_USER:
         handleNewUser(socket);
-  };
+        break;
+      default:
+        console.log('Server received an unknown message type');
+        break;
+    };
+  });
 });
 
-// TODO: Define the websocket server 'connection' handler
-// TODO: Define the socket 'message' handler
+// Define the websocket server 'connection' handler
+// Define the socket 'message' handler
   // 'NEW_USER' => handleNewUser(socket)
   // 'PASS_POTATO' => passThePotatoTo(newPotatoHolderIndex)
 
@@ -63,37 +68,36 @@ wsServer.on('connection', (socket) => {
 ////////////// HELPER FUNCTIONS ///////////////
 ///////////////////////////////////////////////
 
-// TODO: Implement the broadcast pattern
-
-
+// Implement the broadcast pattern
 function handleNewUser(socket) {
   // Until there are 4 players in the game....
   if (nextPlayerIndex < 4) {
+    // Send PLAYER_ASSIGNMENT to the socket with a clientPlayerIndex
     socket.send(
       JSON.stringify({
         type: SERVER.MESSAGE.PLAYER_ASSIGNMENT,
-        payload: {
-        clientPlayerIndex: nextPlayerIndex
-        }
-      })
-    );
+        payload: { 
+          clientPlayerIndex: nextPlayerIndex 
+        }})
+      );
     // Then, increment the number of players in the game
     nextPlayerIndex++;
-    
+
     // If they are the 4th player, start the game
     if (nextPlayerIndex === 4) {
       // Choose a random potato holder to start
       const randomFirstPotatoHolder = Math.floor(Math.random() * 4);
       passThePotatoTo(randomFirstPotatoHolder);
-      
       // Start the timer
       startTimer();
     }
   } 
-  
+
   // If 4 players are already in the game...
   else {
-    socket.send(JSON.stringify({
+    // Send GAME_FULL to the socket
+    socket.send(
+      JSON.stringify({
       type: SERVER.MESSAGE.GAME_FULL,
       payload: null
       })
