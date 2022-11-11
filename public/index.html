@@ -117,8 +117,14 @@
       // set the potatoHolderIndex to be the player that was clicked on
       potatoHolderIndex = newPotatoHolderIndex;
       
-      // TODO: Send the server a 'PASS_POTATO' message with the newPotatoHolderIndex
-      
+      // Send the server a 'PASS_POTATO' message with the newPotatoHolderIndex
+      const messageObject = {
+        type: CLIENT.MESSAGE.PASS_POTATO,
+        payload: {
+          newPotatoHolderIndex
+        }
+      };
+      wsClient.send(JSON.stringify(messageObject));
     }
 
     ////////////////////////////////////////////////

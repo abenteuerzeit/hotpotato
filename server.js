@@ -51,6 +51,9 @@ wsServer.on('connection', (socket) => {
       case CLIENT.MESSAGE.NEW_USER:
         handleNewUser(socket);
         break;
+      case CLIENT.MESSAGE.PASS_POTATO:
+        passThePotatoTo(payload.newPotatoHolderIndex);
+        break;
       default:
         console.log('Server received an unknown message type');
         break;
