@@ -50,7 +50,7 @@ wsServer.on('connection', (socket) => {
     switch (type) {
       case CLIENT.MESSAGE.NEW_USER:
         handleNewUser(socket);
-  });
+  };
 });
 
 // TODO: Define the websocket server 'connection' handler
