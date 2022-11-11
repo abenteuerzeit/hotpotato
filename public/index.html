@@ -46,7 +46,7 @@
           passThePotatoTo(playerIndex);
         }
       } 
-    });  
+    });
 
     ////////////////////////////////////////////////
     ///////////////// WS LOGIC /////////////////////
@@ -59,23 +59,24 @@
         wsClient.close();
       }
 
+      // Create a new WebSocket connection with the server using the ws protocol
       const URL = `ws://localhost:${PORT}`;
       wsClient = new WebSocket(URL);
-      
+
       // Define the .onopen() handler
-      wsClient.onopen = (event) => {
+      wsClient.onopen = () => {
         console.log('A client connected to the WebSocket server');
-        const message = {
+        const messageObj = {
           type: CLIENT.MESSAGE.NEW_USER
         };
         // Send the server a 'NEW_USER' message
-        wsClient.send(JSON.stringify(message));
-      };
+        wsClient.send(JSON.stringify(messageObj));
+      }
 
       // Define the .onmessage() handler
+        // For each message type below, call the appropriate helper the proper value
       wsClient.onmessage = (messageEvent) => {
-        const {type, payload} = JSON.parse(messageEvent.data);
-        console.log(type, payload);
+        const { type, payload } = JSON.parse(messageEvent.data)
         switch(type) {
           case SERVER.MESSAGE.GAME_FULL:
             updateDisplay("Sorry, the game is full. Try again later.");
@@ -83,11 +84,11 @@
           case SERVER.MESSAGE.PLAYER_ASSIGNMENT:
             setPlayerIndex(payload.clientPlayerIndex);
             break;
-          case SERVER.MESSAGE.COUNTDOWN:
-            countDown(payload.clockValue);
-            break;
           case SERVER.BROADCAST.NEW_POTATO_HOLDER:
             updateCurrentPotatoHolder(payload.newPotatoHolderIndex);
+            break;
+          case SERVER.BROADCAST.COUNTDOWN:
+            countDown(payload.clockValue);
             break;
           case SERVER.BROADCAST.GAME_OVER:
             endGame();
@@ -95,7 +96,7 @@
           default:
             console.log('Unknown message type');
             break;
-        };
+        }
       }
 
       // .onclose is executed when the socket connection is closed
@@ -118,13 +119,12 @@
       potatoHolderIndex = newPotatoHolderIndex;
       
       // Send the server a 'PASS_POTATO' message with the newPotatoHolderIndex
-      const messageObject = {
+      const messageObj = {
         type: CLIENT.MESSAGE.PASS_POTATO,
-        payload: {
-          newPotatoHolderIndex
-        }
-      };
-      wsClient.send(JSON.stringify(messageObject));
+        payload: { newPotatoHolderIndex }
+      }
+      wsClient.send(JSON.stringify(messageObj));
+
     }
 
     ////////////////////////////////////////////////
