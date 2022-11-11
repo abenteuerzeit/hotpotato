@@ -64,6 +64,10 @@
       wsClient = new WebSocket(URL);
       wsClient.onopen = (event) => {
         console.log('A client connected to the WebSocket server');
+        const message = {
+          type: CLIENT.MESSAGE.NEW_USER
+        };
+        wsClient.send(JSON.stringify(message));
       };
 
 

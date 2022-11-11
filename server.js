@@ -43,6 +43,10 @@ const option = {server: server};
 const wsServer = new WebSocket.Server(option);
 wsServer.on('connection', (socket) => {
   console.log('A new client has joined the server');
+  socket.on('message', (data) => {
+    const message = JSON.parse(data);
+    console.log(message);
+  });
 });
 
 // TODO: Define the websocket server 'connection' handler
