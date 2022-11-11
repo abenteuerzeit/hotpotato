@@ -86,10 +86,10 @@
           case SERVER.MESSAGE.COUNTDOWN:
             countDown(payload.clockValue);
             break;
-          case SERVER.MESSAGE.NEW_POTATO_HOLDER:
+          case SERVER.BROADCAST.NEW_POTATO_HOLDER:
             updateCurrentPotatoHolder(payload.newPotatoHolderIndex);
             break;
-          case SERVER.MESSAGE.GAME_OVER:
+          case SERVER.BROADCAST.GAME_OVER:
             endGame();
             break;
           default:
