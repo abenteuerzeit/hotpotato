@@ -60,10 +60,10 @@
       }
 
       // TODO: Create a new WebSocket connection with the server using the ws protocol
-      const URL = 'ws://localhost:' + PORT;
+      const URL = `ws://localhost:${PORT}`;
       wsClient = new WebSocket(URL);
       wsClient.onopen = (event) => {
-        console.log('Connected to the WebSocket server');
+        console.log('A client connected to the WebSocket server');
       };
 
 
