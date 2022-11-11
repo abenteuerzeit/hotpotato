@@ -39,7 +39,7 @@ const server = http.createServer((req, res) => {
 ///////////////////////////////////////////////
 
 // TODO: Create the WebSocket Server (ws) using the HTTP server
-const option = {server: 'localhost:8080'};
+const option = {server: server};
 const wsServer = new WebSocket.Server(option);
 wsServer.on('connection', (socket) => {
   console.log('A new client has joined the server');
