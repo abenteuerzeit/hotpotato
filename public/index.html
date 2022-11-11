@@ -61,26 +61,42 @@
 
       const URL = `ws://localhost:${PORT}`;
       wsClient = new WebSocket(URL);
+      
+      // Define the .onopen() handler
       wsClient.onopen = (event) => {
         console.log('A client connected to the WebSocket server');
         const message = {
           type: CLIENT.MESSAGE.NEW_USER
         };
+        // Send the server a 'NEW_USER' message
         wsClient.send(JSON.stringify(message));
       };
 
-
-      // TODO: Define the .onopen() handler
-        // TODO: Send the server a 'NEW_USER' message
-
-      // TODO: Define the .onmessage() handler
-        // For each message type below, call the appropriate helper the proper value
-          // 'GAME_FULL' => updateDisplay(displayText);
-          // 'PLAYER_ASSIGNMENT' => setPlayerIndex(playerIndex)
-          // 'COUNTDOWN' => countDown(clockValue)
-          // 'NEW_POTATO_HOLDER' => updateCurrentPotatoHolder(newPotatoHolderIndex)
-          // 'GAME_OVER' => endGame()
-      
+      // Define the .onmessage() handler
+      wsClient.onmessage = (messageEvent) => {
+        const {type, payload} = JSON.parse(messageEvent.data);
+        console.log(type, payload);
+        switch(type) {
+          case SERVER.MESSAGE.GAME_FULL:
+            updateDisplay("Sorry, the game is full. Try again later.");
+            break;
+          case SERVER.MESSAGE.PLAYER_ASSIGNMENT:
+            setPlayerIndex(payload.clientPlayerIndex);
+            break;
+          case SERVER.MESSAGE.COUNTDOWN:
+            countDown(payload.clockValue);
+            break;
+          case SERVER.MESSAGE.NEW_POTATO_HOLDER:
+            updateCurrentPotatoHolder(payload.newPotatoHolderIndex);
+            break;
+          case SERVER.MESSAGE.GAME_OVER:
+            endGame();
+            break;
+          default:
+            console.log('Unknown message type');
+            break;
+        };
+      }
 
       // .onclose is executed when the socket connection is closed
       wsClient.onclose = function() {
