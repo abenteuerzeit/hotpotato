@@ -59,7 +59,6 @@
         wsClient.close();
       }
 
-      // TODO: Create a new WebSocket connection with the server using the ws protocol
       const URL = `ws://localhost:${PORT}`;
       wsClient = new WebSocket(URL);
       wsClient.onopen = (event) => {

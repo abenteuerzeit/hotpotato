@@ -38,14 +38,18 @@ const server = http.createServer((req, res) => {
 ////////////////// WS LOGIC ///////////////////
 ///////////////////////////////////////////////
 
-// TODO: Create the WebSocket Server (ws) using the HTTP server
 const option = {server: server};
 const wsServer = new WebSocket.Server(option);
 wsServer.on('connection', (socket) => {
   console.log('A new client has joined the server');
   socket.on('message', (data) => {
-    const message = JSON.parse(data);
-    console.log(message);
+    const messageObject = JSON.parse(data);
+    const type = messageObject.type;
+    const payload = messageObject.payload;
+    console.log(messageObject);
+    switch (type) {
+      case CLIENT.MESSAGE.NEW_USER:
+        handleNewUser(socket);
   });
 });
 
