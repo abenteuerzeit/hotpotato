@@ -1,0 +1,1577 @@
+repo_name: abenteuerzeit/hotpotato
+report_id: 6295459031dd4ac8c760c9cdc71da2d5
+repo_type: Public
+timestamp: '2023-11-12T10:26:19+00:00'
+requested_by: abenteuerzeit
+provider: github
+branch: master
+detected_tools_count: 127
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source: package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Airtap
+  description: Test your JavaScript in 800+ browsers
+  website_url: https://github.com/airtap/airtap
+  version: 0.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: node_modules/typedarray-to-buffer/package.json
+  detection_source: node_modules/typedarray-to-buffer/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 9.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: JSLint
+  description: A Code Quality Tool for Javascript
+  website_url: http://www.jslint.com/
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: node_modules/bufferutil/package.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: node_modules/ws/package.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.17.6
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/ext/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: node_modules/typedarray-to-buffer/.travis.yml
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: node_modules/websocket/package.json
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: node_modules/typedarray-to-buffer/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: pre-commit
+  description: A slightly improved pre-commit hook for git
+  website_url: http://jish.github.io/pre-commit/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source: node_modules/ext/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source: node_modules/typedarray-to-buffer/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Chartio
+  description: A powerful Business Intelligence tool anyone can use
+  website_url: https://chartio.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source: node_modules/node-gyp-build/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Alt
+  description: A library for managing data within JavaScript applications
+  website_url: https://alt.js.org/
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source: node_modules/ext/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: test
+  website_url: test
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: arg
+  description: Another simple argument parser
+  package_url: https://www.npmjs.com/arg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: benchmark
+  description: A benchmarking library that supports high-resolution timers &amp; returns
+    statistically significant results
+  package_url: https://www.npmjs.com/benchmark
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: node_modules/ws/package.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 11:59:33.000000000 Z
+- name: bindings
+  description: Helper module for loading your native module's .node file
+  package_url: https://www.npmjs.com/bindings
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16564/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source: node_modules/node-gyp-build/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: buffer-equal
+  description: Return whether two buffers are equal
+  package_url: https://www.npmjs.com/buffer-equal
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18724/default_d60b6874d2b3ef9c114b898855dc8608d7e7a942.png
+  detection_source_url: node_modules/websocket/package.json
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: bufferutil
+  description: WebSocket buffer utils
+  package_url: https://www.npmjs.com/bufferutil
+  version: 4.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17739/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: package-lock.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: cac
+  description: Simple yet powerful framework for building command-line apps
+  package_url: https://www.npmjs.com/cac
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18731/default_896e971e78d35d9228342aa32100298402d2473b.png
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: cli
+  description: A tool for rapidly building command line apps
+  package_url: https://www.npmjs.com/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: component
+  description: Component package manager consuming git repositories
+  package_url: https://www.npmjs.com/component
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18220/default_46cc7e5b7a8c78af11a3ee7db2fc5fe39f295a6e.png
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: conf
+  description: Simple config handling for your app or module
+  package_url: https://www.npmjs.com/conf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source: node_modules/typedarray-to-buffer/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: css
+  description: CSS parser / stringifier
+  package_url: https://www.npmjs.com/css
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: package-lock.json
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: es6-symbol
+  description: ECMAScript 6 Symbol polyfill
+  package_url: https://www.npmjs.com/es6-symbol
+  version: 3.1.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18334/default_d5b77997c52e60064f8f7efaaf6a6e4c314ba8e4.png
+  detection_source_url: package-lock.json
+  detection_source: node_modules/es6-symbol/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: node_modules/ws/package.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 11:59:33.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: node_modules/ws/package.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 11:59:33.000000000 Z
+- name: event-emitter
+  description: Environment agnostic event emitter
+  package_url: https://www.npmjs.com/event-emitter
+  version: 0.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17850/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
+  detection_source_url: node_modules/es6-iterator/package.json
+  detection_source: node_modules/es6-iterator/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: expect
+  description: This package exports the `expect` function used in [Jest]
+  package_url: https://www.npmjs.com/expect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source: node_modules/ms/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: expect.js
+  description: BDD style assertions for node and the browser
+  package_url: https://www.npmjs.com/expect.js
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: node_modules/ms/package.json
+  detection_source: node_modules/ms/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: expo
+  description: The Expo SDK
+  package_url: https://www.npmjs.com/expo
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17801/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 11:59:33.000000000 Z
+- name: extend
+  description: Port of jQuery.extend for node.js and the browser
+  package_url: https://www.npmjs.com/extend
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: global
+  description: Require global variables
+  package_url: https://www.npmjs.com/global
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: gulp-jscs
+  description: Check JavaScript code style with jscs
+  package_url: https://www.npmjs.com/gulp-jscs
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16515/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: node_modules/yaeti/package.json
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: gulp-jshint
+  description: JSHint plugin for gulp
+  package_url: https://www.npmjs.com/gulp-jshint
+  version: 2.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: node_modules/websocket/package.json
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: hat
+  description: Generate random IDs and avoid collisions
+  package_url: https://www.npmjs.com/hat
+  license: MIT,X11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
+  detection_source: node_modules/node-gyp-build/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: he
+  description: A robust HTML entities encoder/decoder with full Unicode support
+  package_url: https://www.npmjs.com/he
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ignore
+  description: Ignore is a manager and filter for .gitignore rules
+  package_url: https://www.npmjs.com/ignore
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: istanbul
+  description: Yet another JS code coverage tool that computes statement, line, function
+    and branch coverage with module loader hooks to transparently add coverage when
+    running tests
+  package_url: https://www.npmjs.com/istanbul
+  version: 0.4.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15833/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: jscs
+  description: JavaScript Code Style
+  package_url: https://www.npmjs.com/jscs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16176/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: jshint-stylish
+  description: Stylish reporter for JSHint
+  package_url: https://www.npmjs.com/jshint-stylish
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16031/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: node_modules/websocket/package.json
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: json
+  description: A 'json' command for massaging and processing JSON on the command line
+  package_url: https://www.npmjs.com/json
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17859/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: karma-chai
+  description: Chai for Karma
+  package_url: https://www.npmjs.com/karma-chai
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16177/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: karma-mocha
+  description: A Karma plugin. Adapter for Mocha testing framework
+  package_url: https://www.npmjs.com/karma-mocha
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: karma-phantomjs-launcher
+  description: A Karma plugin. Launcher for PhantomJS
+  package_url: https://www.npmjs.com/karma-phantomjs-launcher
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15947/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: karma-sinon
+  description: Sinon for Karma
+  package_url: https://www.npmjs.com/karma-sinon
+  version: 1.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16601/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: log
+  description: Universal pluggable logging utility
+  package_url: https://www.npmjs.com/log
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source: node_modules/ext/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: mitt
+  description: Tiny 200b functional Event Emitter / pubsub
+  package_url: https://www.npmjs.com/mitt
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18719/default_88ba18730de3c1cd8c358a23343f72c83971e808.png
+  detection_source: node_modules/es6-iterator/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: mocha-lcov-reporter
+  description: LCOV reporter for Mocha
+  package_url: https://www.npmjs.com/mocha-lcov-reporter
+  version: 1.2.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16120/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: package-lock.json
+  detection_source: node_modules/ms/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: node_modules/bufferutil/package.json
+  detection_source: node_modules/utf-8-validate/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: np
+  description: A better `npm publish`
+  package_url: https://www.npmjs.com/np
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source: node_modules/typedarray-to-buffer/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source: node_modules/typedarray-to-buffer/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 15.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: node_modules/es5-ext/package.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: ol
+  description: OpenLayers mapping library
+  package_url: https://www.npmjs.com/ol
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: phantom
+  description: PhantomJS integration module for NodeJS
+  package_url: https://www.npmjs.com/phantom
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17469/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source: node_modules/ext/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: q
+  description: A library for promises
+  package_url: https://www.npmjs.com/q
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15974/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: raf
+  description: RequestAnimationFrame polyfill for node and the browser
+  package_url: https://www.npmjs.com/raf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16199/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: rc
+  description: Hardwired configuration loader
+  package_url: https://www.npmjs.com/rc
+  license: BSD-2-Clause,MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source: node_modules/utf-8-validate/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.5.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: s3
+  description: High level amazon s3 client
+  package_url: https://www.npmjs.com/s3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18491/default_0f684fdba52879fd48ceb8876e4283627899355a.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: serve
+  description: Static file serving and directory listing
+  package_url: https://www.npmjs.com/serve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: sinon-chai
+  description: Extends Chai with assertions for the Sinon.JS mocking framework
+  package_url: https://www.npmjs.com/sinon-chai
+  version: 2.8.0
+  license: BSD-2-Clause,WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15914/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  version: 14.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: node_modules/node-gyp-build/package.json
+  detection_source: node_modules/typedarray-to-buffer/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: stream
+  description: Node.js streams in the browser
+  package_url: https://www.npmjs.com/stream
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18008/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: string
+  description: String contains methods that aren't included in the vanilla JavaScript
+    string such as escaping html
+  package_url: https://www.npmjs.com/string
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16825/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 2.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: node_modules/is-typedarray/package.json
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source: node_modules/utf-8-validate/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source: node_modules/yaeti/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: utf-8-validate
+  description: Check if a buffer contains valid UTF-8
+  package_url: https://www.npmjs.com/utf-8-validate
+  version: 5.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17898/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: package-lock.json
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: verb
+  description: Documentation generator for GitHub projects
+  package_url: https://www.npmjs.com/verb
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17845/default_7e49ed9d84206a0a241a2a0e7e3f63b8f9585401.png
+  detection_source: node_modules/websocket/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: vision
+  description: Templates rendering plugin support for hapi.js
+  package_url: https://www.npmjs.com/vision
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18118/image.png
+  detection_source: node_modules/debug/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: watch
+  description: Utilities for watching file trees
+  package_url: https://www.npmjs.com/watch
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source: node_modules/next-tick/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: websocket
+  description: Websocket Client &amp; Server Library implementing the WebSocket protocol
+    as specified in RFC 6455
+  package_url: https://www.npmjs.com/websocket
+  version: 1.0.34
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16782/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: write
+  description: Write data to a file, replacing the file if it already exists and creating
+    any intermediate directories if they don't already exist
+  package_url: https://www.npmjs.com/write
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: xtend
+  description: Extend like a boss
+  package_url: https://www.npmjs.com/xtend
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16315/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source: node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: yaml
+  description: JavaScript parser and stringifier for YAML
+  package_url: https://www.npmjs.com/yaml
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17426/default_4036a97a759f3ed3ec649b3a5fa230fe4d064a6a.png
+  detection_source: node_modules/ws/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
