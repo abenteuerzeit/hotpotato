@@ -140,7 +140,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [abenteuerzeit/hotpotato](https://github.com/abenteuerzeit/hotpotato)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|157<br/>Tools used|12/14/23 <br/>Report generated|
+|164<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -842,9 +842,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (76)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (83)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (76)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (83)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -863,6 +863,7 @@ Full tech stack [here](/techstack.md)
 |[concurrently](https://www.npmjs.com/concurrently)|v3.1.0|11/11/22|abenteuerzeit |MIT|N/A|
 |[conf](https://www.npmjs.com/conf)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[config](https://www.npmjs.com/config)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
+|[copy](https://www.npmjs.com/copy)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[css](https://www.npmjs.com/css)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[debug](https://www.npmjs.com/debug)|v2.6.9|11/11/22|abenteuerzeit |MIT|N/A|
 |[es6-symbol](https://www.npmjs.com/es6-symbol)|v3.1.3|11/11/22|abenteuerzeit |ISC|N/A|
@@ -882,15 +883,18 @@ Full tech stack [here](/techstack.md)
 |[he](https://www.npmjs.com/he)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[http](https://www.npmjs.com/http)|N/A|11/11/22|abenteuerzeit |BSD-2-Clause|N/A|
 |[https](https://www.npmjs.com/https)|N/A|11/11/22|abenteuerzeit |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v2.4.1|11/11/22|abenteuerzeit |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[ip](https://www.npmjs.com/ip)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[is](https://www.npmjs.com/is)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
+|[jscs](https://www.npmjs.com/jscs)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[jshint-stylish](https://www.npmjs.com/jshint-stylish)|v2.2.1|11/11/22|abenteuerzeit |MIT|N/A|
 |[karma-chai](https://www.npmjs.com/karma-chai)|v0.1.0|11/11/22|abenteuerzeit |MIT|N/A|
 |[karma-mocha](https://www.npmjs.com/karma-mocha)|v1.3.0|11/11/22|abenteuerzeit |MIT|N/A|
 |[karma-phantomjs-launcher](https://www.npmjs.com/karma-phantomjs-launcher)|v1.0.2|11/11/22|abenteuerzeit |MIT|N/A|
 |[karma-sinon](https://www.npmjs.com/karma-sinon)|v1.0.5|11/11/22|abenteuerzeit |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.2.1|11/11/22|abenteuerzeit |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|11/11/22|abenteuerzeit |ISC|N/A|
 |[mitt](https://www.npmjs.com/mitt)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[mocha-lcov-reporter](https://www.npmjs.com/mocha-lcov-reporter)|v1.2.0|11/11/22|abenteuerzeit |BSD-2-Clause|N/A|
@@ -909,13 +913,16 @@ Full tech stack [here](/techstack.md)
 |[raf](https://www.npmjs.com/raf)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[rc](https://www.npmjs.com/rc)|N/A|11/11/22|abenteuerzeit |BSD-2-Clause,MIT,Apache-2.0|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.5.4|11/11/22|abenteuerzeit |ISC|N/A|
+|[s3](https://www.npmjs.com/s3)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[sinon-chai](https://www.npmjs.com/sinon-chai)|v2.8.0|11/11/22|abenteuerzeit |BSD-2-Clause,WTFPL|N/A|
 |[st](https://www.npmjs.com/st)|N/A|11/11/22|abenteuerzeit |ISC|N/A|
 |[standard](https://www.npmjs.com/standard)|v14.0.0|11/11/22|abenteuerzeit |MIT|N/A|
 |[string](https://www.npmjs.com/string)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[tap](https://www.npmjs.com/tap)|N/A|11/11/22|abenteuerzeit |ISC|N/A|
+|[tape](https://www.npmjs.com/tape)|v2.13.1|11/11/22|abenteuerzeit |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|11/11/22|abenteuerzeit |ISC|N/A|
+|[test](https://www.npmjs.com/test)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[url](https://www.npmjs.com/url)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
 |[utf-8-validate](https://www.npmjs.com/utf-8-validate)|v5.0.10|11/11/22|abenteuerzeit |MIT|N/A|
 |[util](https://www.npmjs.com/util)|N/A|11/11/22|abenteuerzeit |MIT|N/A|
