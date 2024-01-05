@@ -1,11 +1,12 @@
 repo_name: abenteuerzeit/hotpotato
-report_id: 2720de48a45425f9ab27cd0725693e63
+report_id: 6295459031dd4ac8c760c9cdc71da2d5
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:31:02+00:00'
+timestamp: '2024-01-05T08:50:03+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
-detected_tools_count: 157
+detected_tools_count: 164
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato
   detection_source: Repo Metadata
 - name: D
   description: Modern convenience. Modeling power. Native efficiency.
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -58,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6490/2OjlqE5m.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -70,6 +76,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/5985/qbJoNuap.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es6-iterator/package.json
   detection_source: node_modules/es6-iterator/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -81,6 +88,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -93,6 +101,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -105,6 +114,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -115,6 +125,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ws/package.json
   detection_source: node_modules/ws/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 11:59:33.000000000 Z
@@ -127,6 +138,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -139,6 +151,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/node_modules/type/package.json
   detection_source: node_modules/ext/node_modules/type/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -151,6 +164,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1744/yaml.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -164,6 +178,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -175,6 +190,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ws/package.json
   detection_source: node_modules/ws/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 11:59:33.000000000 Z
@@ -187,6 +203,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/3460/7853871.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -199,6 +216,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -210,6 +228,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -222,6 +241,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -234,6 +254,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/9702/omi-logo.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -245,6 +266,7 @@ tools:
   category: Languages & Frameworks
   sub_category: MVC Tools
   image_url: https://img.stackshare.io/service/21952/default_88e255d5edba01103597c39250faa9a14170a048.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/node-gyp-build/package.json
   detection_source: node_modules/node-gyp-build/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -256,6 +278,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Language Extensions
   image_url: https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -268,6 +291,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -280,6 +304,7 @@ tools:
   category: Data Stores
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -292,6 +317,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -346,6 +372,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -358,6 +385,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -370,6 +398,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -381,6 +410,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato
   detection_source: Repo Metadata
 - name: Istanbul
   description: A JS code coverage tool written in JS
@@ -390,6 +420,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -401,6 +432,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/websocket/package.json
   detection_source: node_modules/websocket/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -413,6 +445,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -453,6 +486,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -465,6 +499,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -490,6 +525,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ws/package.json
   detection_source: node_modules/ws/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 11:59:33.000000000 Z
@@ -501,6 +537,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -526,6 +563,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/.travis.yml
   detection_source: node_modules/debug/.travis.yml
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -553,6 +591,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -564,6 +603,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -575,6 +615,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -586,6 +627,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -598,6 +640,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/package.json
   detection_source: node_modules/ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -609,6 +652,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Social Media Tools
   image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -620,6 +664,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/node-gyp-build/package.json
   detection_source: node_modules/node-gyp-build/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -631,6 +676,7 @@ tools:
   category: Back Office
   sub_category: Email Services
   image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -643,6 +689,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/8491/jYzpfxho_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -655,6 +702,7 @@ tools:
   category: Application Utilities
   sub_category: Activity Feeds as a Service
   image_url: https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -667,6 +715,7 @@ tools:
   category: Assets and Media
   sub_category: File Conversion
   image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -678,6 +727,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/websocket/package.json
   detection_source: node_modules/websocket/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -689,6 +739,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/node_modules/type/package.json
   detection_source: node_modules/ext/node_modules/type/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -699,6 +750,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2492/Ie9kefsM_normal.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/typedarray-to-buffer/package.json
   detection_source: node_modules/typedarray-to-buffer/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -707,6 +759,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -715,6 +768,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/node_modules/type/package.json
   detection_source: node_modules/ext/node_modules/type/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -727,6 +781,7 @@ tools:
   category: Application Utilities
   sub_category: Search Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -736,6 +791,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -744,6 +800,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2198/8018201.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/yaeti/package.json
   detection_source: node_modules/yaeti/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -755,6 +812,7 @@ tools:
   category: Application Utilities
   sub_category: Printing API
   image_url: https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -766,6 +824,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/package.json
   detection_source: node_modules/ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -778,6 +837,7 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -787,6 +847,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10232/logo-500x300.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -799,6 +860,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -811,6 +873,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -821,6 +884,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/1994/ClSB1Oo__normal.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/node_modules/type/package.json
   detection_source: node_modules/ext/node_modules/type/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -831,6 +895,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2845/-TjSkznr_normal.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/websocket/package.json
   detection_source: node_modules/websocket/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -841,6 +906,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/is-typedarray/package.json
   detection_source: node_modules/is-typedarray/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -852,6 +918,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shell Utilities
   image_url: https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -864,6 +931,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -873,6 +941,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4220/LNPwoiWi_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -881,6 +950,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -889,6 +959,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -897,6 +968,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -906,6 +978,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -914,6 +987,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -926,6 +1000,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -938,6 +1013,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -950,6 +1026,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -962,6 +1039,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -989,6 +1067,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16564/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/node-gyp-build/package.json
   detection_source: node_modules/node-gyp-build/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1002,6 +1081,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/package.json
   detection_source: node_modules/ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1042,6 +1122,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18731/default_896e971e78d35d9228342aa32100298402d2473b.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1054,6 +1135,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/websocket/package.json
   detection_source: node_modules/websocket/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1066,6 +1148,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1092,6 +1175,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1104,7 +1188,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/typedarray-to-buffer/package.json
+  detection_source: node_modules/typedarray-to-buffer/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
 - name: css
@@ -1116,6 +1214,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1198,6 +1297,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ms/package.json
   detection_source: node_modules/ms/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1224,6 +1324,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1236,6 +1337,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1248,6 +1350,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1260,6 +1363,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1272,6 +1376,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1312,6 +1417,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/node-gyp-build/package.json
   detection_source: node_modules/node-gyp-build/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1324,6 +1430,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1335,6 +1442,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1347,7 +1455,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
+  detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
 - name: i
@@ -1359,6 +1482,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1371,6 +1495,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1383,6 +1508,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1395,7 +1521,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: jscs
+  description: JavaScript Code Style
+  package_url: https://www.npmjs.com/jscs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16176/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/yaeti/package.json
+  detection_source: node_modules/yaeti/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
 - name: jshint-stylish
@@ -1468,6 +1608,20 @@ tools:
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 8.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
+  detection_source: node_modules/d/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
 - name: log
   description: Universal pluggable logging utility
   package_url: https://www.npmjs.com/log
@@ -1477,6 +1631,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1489,6 +1644,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18719/default_88ba18730de3c1cd8c358a23343f72c83971e808.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es6-iterator/package.json
   detection_source: node_modules/es6-iterator/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1529,6 +1685,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1555,6 +1712,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1567,6 +1725,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1593,6 +1752,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1605,6 +1765,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1617,6 +1778,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1629,6 +1791,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17469/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1641,6 +1804,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/node_modules/type/package.json
   detection_source: node_modules/ext/node_modules/type/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1653,6 +1817,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/es5-ext/package.json
   detection_source: node_modules/es5-ext/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1665,6 +1830,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16199/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1677,6 +1843,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1694,6 +1861,19 @@ tools:
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: s3
+  description: High level amazon s3 client
+  package_url: https://www.npmjs.com/s3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18491/default_0f684fdba52879fd48ceb8876e4283627899355a.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/node_modules/type/package.json
+  detection_source: node_modules/ext/node_modules/type/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
 - name: serve
   description: Static file serving and directory listing
   package_url: https://www.npmjs.com/serve
@@ -1703,6 +1883,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/websocket/package.json
   detection_source: node_modules/websocket/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1729,6 +1910,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1756,6 +1938,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16825/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/ext/node_modules/type/package.json
   detection_source: node_modules/ext/node_modules/type/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1768,6 +1951,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/is-typedarray/package.json
+  detection_source: node_modules/is-typedarray/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 2.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/is-typedarray/package.json
   detection_source: node_modules/is-typedarray/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1780,6 +1978,20 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
+  detection_source: node_modules/bufferutil/package.json
+  last_updated_by: abenteuerzeit
+  last_updated_on: 2022-11-11 12:44:38.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1792,6 +2004,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1818,6 +2031,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/bufferutil/package.json
   detection_source: node_modules/bufferutil/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1830,6 +2044,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17845/default_7e49ed9d84206a0a241a2a0e7e3f63b8f9585401.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/websocket/package.json
   detection_source: node_modules/websocket/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1842,6 +2057,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18118/image.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1854,6 +2070,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/next-tick/package.json
   detection_source: node_modules/next-tick/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
@@ -1882,6 +2099,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/abenteuerzeit/hotpotato/blob/master/node_modules/d/package.json
   detection_source: node_modules/d/package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-11-11 12:44:38.000000000 Z
