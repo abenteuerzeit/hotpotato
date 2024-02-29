@@ -3,65 +3,65 @@
 ## Tech Stack
 abenteuerzeit/hotpotato is built on the following main stack:
 
-- [Chartio](https://chartio.com) – Business Intelligence
-- [Lob](https://lob.com/) – Printing API
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Buffer](https://bufferapp.com/) – Social Media Tools
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Component](http://component.io) – Front End Package Manager
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [YAML](http://www.yaml.org/) – Languages
-- [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- [JSHint](http://www.jshint.com/about/) – Code Review
-- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- [Stream](https://getstream.io/) – Activity Feeds as a Service
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [dat](http://dat-data.com/) – Database Tools
-- [JSON](http://www.json.org/) – Languages
 - [D](http://dlang.org/) – Languages
-- [Gmail](https://mail.google.com) – Email Services
-- [OpenLayers](http://openlayers.org/) – Mapping APIs
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [ESLint](http://eslint.org/) – Code Review
-- [Iron](http://ironframework.io/) – Microframeworks (Backend)
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
 - [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
-- [pip](https://pypi.org/project/pip/) – Front End Package Manager
-- [Expo](https://expo.dev/) – Cross-Platform Mobile Development
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [Eve](http://programming.witheve.com/) – Languages
-- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 - [Eta](http://eta-lang.org/) – Languages
-- [JSLint](http://www.jslint.com/) – Code Review
-- [Prettier](https://prettier.io/) – Code Review
-- [hub](http://hub.github.com/) – Git Tools
-- [Elastic](https://github.com/olivere/elastic) – Search Tools
+- [Eve](http://programming.witheve.com/) – Languages
+- [JSON](http://www.json.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Swift](https://developer.apple.com/swift/) – Languages
+- [YAML](http://www.yaml.org/) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Expo](https://expo.dev/) – Cross-Platform Mobile Development
+- [Iron](http://ironframework.io/) – Microframeworks (Backend)
 - [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
-- [Omise](https://www.omise.co/) – Payment Services
-- [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- [Typ](https://www.typ-set.com/) – File Conversion
-- [ent](https://entgo.io/) – Object Relational Mapper (ORM)
 - [Shuffle](https://shuffle.dev/) – MVC Tools
-- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
-- [Try](https://github.com/binpash/try) – Shell Utilities
+- [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
+- [dat](http://dat-data.com/) – Database Tools
+- [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Component](http://component.io) – Front End Package Manager
+- [Coveralls](https://coveralls.io/) – Code Coverage
+- [ESLint](http://eslint.org/) – Code Review
+- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- [JSHint](http://www.jshint.com/about/) – Code Review
+- [JSLint](http://www.jslint.com/) – Code Review
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- [Prettier](https://prettier.io/) – Code Review
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [hub](http://hub.github.com/) – Git Tools
+- [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Buffer](https://bufferapp.com/) – Social Media Tools
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Gmail](https://mail.google.com) – Email Services
+- [Omise](https://www.omise.co/) – Payment Services
+- [Stream](https://getstream.io/) – Activity Feeds as a Service
+- [Typ](https://www.typ-set.com/) – File Conversion
+- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- [Elastic](https://github.com/olivere/elastic) – Search Tools
+- [Lob](https://lob.com/) – Printing API
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [OpenLayers](http://openlayers.org/) – Mapping APIs
+- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- [Try](https://github.com/binpash/try) – Shell Utilities
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -71,65 +71,65 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 abenteuerzeit/hotpotato is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'/> [Lob](https://lob.com/) – Printing API
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'/> [Component](http://component.io) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1744/yaml.png' alt='YAML'/> [YAML](http://www.yaml.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg' alt='Stream'/> [Stream](https://getstream.io/) – Activity Feeds as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png' alt='dat'/> [dat](http://dat-data.com/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png' alt='JSON'/> [JSON](http://www.json.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'/> [Gmail](https://mail.google.com) – Email Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3460/7853871.png' alt='Iron'/> [Iron](http://ironframework.io/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png' alt='Xtend'/> [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg' alt='Expo'/> [Expo](https://expo.dev/) – Cross-Platform Mobile Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'/> [Eve](http://programming.witheve.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/6490/2OjlqE5m.jpg' alt='Eta'/> [Eta](http://eta-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='JSLint'/> [JSLint](http://www.jslint.com/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Elastic'/> [Elastic](https://github.com/olivere/elastic) – Search Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'/> [Eve](http://programming.witheve.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png' alt='JSON'/> [JSON](http://www.json.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1744/yaml.png' alt='YAML'/> [YAML](http://www.yaml.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg' alt='Expo'/> [Expo](https://expo.dev/) – Cross-Platform Mobile Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/3460/7853871.png' alt='Iron'/> [Iron](http://ironframework.io/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Lit'/> [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/8491/jYzpfxho_400x400.png' alt='Omise'/> [Omise](https://www.omise.co/) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Airtap'/> [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/9702/omi-logo.png' alt='Omi'/> [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
-- <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/21952/default_88e255d5edba01103597c39250faa9a14170a048.jpg' alt='Shuffle'/> [Shuffle](https://shuffle.dev/) – MVC Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'/> [Try](https://github.com/binpash/try) – Shell Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png' alt='Xtend'/> [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png' alt='dat'/> [dat](http://dat-data.com/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Airtap'/> [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'/> [Component](http://component.io) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='JSLint'/> [JSLint](http://www.jslint.com/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'/> [Gmail](https://mail.google.com) – Email Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/8491/jYzpfxho_400x400.png' alt='Omise'/> [Omise](https://www.omise.co/) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg' alt='Stream'/> [Stream](https://getstream.io/) – Activity Feeds as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
+- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Elastic'/> [Elastic](https://github.com/olivere/elastic) – Search Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'/> [Lob](https://lob.com/) – Printing API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
+- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'/> [Try](https://github.com/binpash/try) – Shell Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -140,7 +140,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [abenteuerzeit/hotpotato](https://github.com/abenteuerzeit/hotpotato)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|164<br/>Tools used|01/05/24 <br/>Report generated|
+|164<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
